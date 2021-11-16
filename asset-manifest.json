@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redditapi/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/redditapi/static/js/main.7cc02221.chunk.js",
+    "main.js.map": "/redditapi/static/js/main.7cc02221.chunk.js.map",
+    "runtime-main.js": "/redditapi/static/js/runtime-main.87f59d5f.js",
+    "runtime-main.js.map": "/redditapi/static/js/runtime-main.87f59d5f.js.map",
+    "static/js/2.4f6b41a3.chunk.js": "/redditapi/static/js/2.4f6b41a3.chunk.js",
+    "static/js/2.4f6b41a3.chunk.js.map": "/redditapi/static/js/2.4f6b41a3.chunk.js.map",
+    "static/js/3.8dca6bdc.chunk.js": "/redditapi/static/js/3.8dca6bdc.chunk.js",
+    "static/js/3.8dca6bdc.chunk.js.map": "/redditapi/static/js/3.8dca6bdc.chunk.js.map",
+    "index.html": "/redditapi/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/redditapi/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4f6b41a3.chunk.js.LICENSE.txt": "/redditapi/static/js/2.4f6b41a3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redditapi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f59d5f.js",
+    "static/js/2.4f6b41a3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7cc02221.chunk.js"
+  ]
+}
