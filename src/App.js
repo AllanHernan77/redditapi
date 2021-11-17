@@ -32,7 +32,7 @@ import ReactDOM from "react-dom";
        child = node.querySelectorAll('.test');
   }
     for(i = 0; i < 25; i++){
-      if( child[i].outerText === (data.ups).toString() ){
+      if( child[i].outerText == (data.ups) ){
         child[i].innerHTML = (data.ups - 1)
       }
     }
@@ -46,7 +46,7 @@ import ReactDOM from "react-dom";
        child = node.querySelectorAll('.test');
   }
     for(i = 0; i < 25; i++){
-      if(  child[i].outerText === (data.ups).toString()   ){
+      if(  child[i].outerText == (data.ups)   ){
         child[i].innerHTML = (data.ups + 1)
       }
     }
