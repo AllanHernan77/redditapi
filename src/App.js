@@ -4,9 +4,6 @@ import axios from 'axios'
 import RightHandSide from './components/rightSide.js'
 import ReactDOM from "react-dom";
 
-
-
-
  class App extends React.Component {
 
   state = {
