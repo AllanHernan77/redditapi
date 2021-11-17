@@ -15,6 +15,7 @@ class RightHandSide extends React.Component {
         return (
 
           <div className="rhsBlock">
+             {/* accessing the props from the parent component and displaying the information to the screen */}
             <a href  = {this.props.props.url_overridden_by_dest} target = "_blank" rel="noreferrer"> <h1 className = "title">{this.props.props.title}</h1></a>
             <a href  = {this.props.props.url_overridden_by_dest} target = "_blank" rel="noreferrer"> <p>{this.props.props.domain}</p> </a>
             <p>Submitted x hours ago by <p className = "userName">{this.props.props.name}</p></p>
