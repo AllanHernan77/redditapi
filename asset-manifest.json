@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/redditapi/static/css/main.77e2b521.chunk.css",
-    "main.js": "/redditapi/static/js/main.842db777.chunk.js",
-    "main.js.map": "/redditapi/static/js/main.842db777.chunk.js.map",
+    "main.css": "/redditapi/static/css/main.3cbd978e.chunk.css",
+    "main.js": "/redditapi/static/js/main.22cca926.chunk.js",
+    "main.js.map": "/redditapi/static/js/main.22cca926.chunk.js.map",
     "runtime-main.js": "/redditapi/static/js/runtime-main.162e4316.js",
     "runtime-main.js.map": "/redditapi/static/js/runtime-main.162e4316.js.map",
     "static/js/2.f63cf13f.chunk.js": "/redditapi/static/js/2.f63cf13f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.90d248dd.chunk.js": "/redditapi/static/js/3.90d248dd.chunk.js",
     "static/js/3.90d248dd.chunk.js.map": "/redditapi/static/js/3.90d248dd.chunk.js.map",
     "index.html": "/redditapi/index.html",
-    "static/css/main.77e2b521.chunk.css.map": "/redditapi/static/css/main.77e2b521.chunk.css.map",
+    "static/css/main.3cbd978e.chunk.css.map": "/redditapi/static/css/main.3cbd978e.chunk.css.map",
     "static/js/2.f63cf13f.chunk.js.LICENSE.txt": "/redditapi/static/js/2.f63cf13f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.162e4316.js",
     "static/js/2.f63cf13f.chunk.js",
-    "static/css/main.77e2b521.chunk.css",
-    "static/js/main.842db777.chunk.js"
+    "static/css/main.3cbd978e.chunk.css",
+    "static/js/main.22cca926.chunk.js"
   ]
 }
